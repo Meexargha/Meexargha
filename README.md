@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Argha Kundu!
 
 ## 🚀 About Me
-- 👀 I’m passionate about **Machine Learning** and **Backend Development**.
+- 👀 I’m passionate about **Machine Learning** and **Full stack developer**.
 - 🌱 Currently diving deeper into **Machine Learning** algorithms and their real-world applications.
 - 💻 Skilled in **Python**, **JavaScript**, **Node.js**, and exploring **Data Science** tools.
 - 💞️ Looking to collaborate on **tech projects**, especially in the fields of **AI**, **ML**, and **Backend Systems**.
