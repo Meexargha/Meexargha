@@ -11,11 +11,11 @@
   </p>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWdpa2k2eXhwb3F3d28zdHNiaHNscXl4aG1uZG85aThicm5kZ2h5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT5LMvLgB1kSmhOa7C/giphy.gif" width="70%" alt="Energetic Divider">
-</div>
+---
 
 <div align="center">
+  <img src="https://img.shields.io/badge/-%F0%9F%93%8A%20GitHub%20Analytics-00FFFF?style=for-the-badge&labelColor=181717&color=181717" alt="Title: GitHub Analytics">
+  <br><br>
   <table align="center">
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=Meexargha&show_icons=true&theme=transparent&border_color=00FFFF&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&count_private=true" alt="Argha's GitHub Stats" /></td>
@@ -24,20 +24,19 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWdpa2k2eXhwb3F3d28zdHNiaHNscXl4aG1uZG85aThicm5kZ2h5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT5LMvLgB1kSmhOa7C/giphy.gif" width="70%" alt="Energetic Divider">
-</div>
+---
 
-<h3 align="center">⚡ My Philosophy ⚡</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/-%E2%9A%A1%20My%20Philosophy%20%E2%9A%A1-00FFFF?style=for-the-badge&labelColor=181717&color=181717" alt="Title: My Philosophy">
+  <br><br>
   <img src="https://quotes-readme.vercel.app/api?type=horizontal&theme=transparent&title_color=00FFFF&text_color=FFFFFF&quote_color=00FFFF" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWdpa2k2eXhwb3F3d28zdHNiaHNscXl4aG1uZG85aThicm5kZ2h5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT5LMvLgB1kSmhOa7C/giphy.gif" width="70%" alt="Energetic Divider">
-</div>
+---
 
-<h3 align="center">Core Development Toolkit</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/-%F0%9F%94%A7%20Core%20Development%20Toolkit-00FFFF?style=for-the-badge&labelColor=181717&color=181717" alt="Title: Core Development Toolkit">
+</div>
 <p align="center">
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/></a>
@@ -52,7 +51,9 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/></a>
 </p>
 
-<h3 align="center">Areas of Exploration</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/-%F0%9F%94%8D%20Areas%20of%20Exploration-00FFFF?style=for-the-badge&labelColor=181717&color=181717" alt="Title: Areas of Exploration">
+</div>
 <p align="center">
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker" title="Docker"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" alt="Kubernetes" title="Kubernetes"/></a>
@@ -64,11 +65,10 @@
   <a href="#"><img src="https://img.shields.io/badge/Generative_AI-00FFFF?style=for-the-badge&logo=openai&logoColor=black" height="28" alt="Generative AI" title="Generative AI"/></a>
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWdpa2k2eXhwb3F3d28zdHNiaHNscXl4aG1uZG85aThicm5kZ2h5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT5LMvLgB1kSmhOa7C/giphy.gif" width="70%" alt="Energetic Divider">
-</div>
+---
 
-<h3 align="center">Connect & Collaborate</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/-%F0%9F%93%A7%20Connect%20%26%20Collaborate-00FFFF?style=for-the-badge&labelColor=181717&color=181717" alt="Title: Connect & Collaborate">
 <p align="center">
   <a href="https://github.com/Meexargha" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -83,3 +83,4 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
+</div>
