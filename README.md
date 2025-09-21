@@ -1,4 +1,12 @@
 <div align="center">
+<pre>
+  /\_/\
+ ( o.o )
+  &gt; ^ &lt;
+</pre>
+</div>
+
+<div align="center">
   <img src="https://media.giphy.com/media/y65VoOlimZaus/giphy.gif" width="300" alt="Hacker Animation">
   
   <h1>Argha Kundu</h1>
