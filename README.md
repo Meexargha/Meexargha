@@ -1,19 +1,11 @@
 <div align="center">
-<pre>
-  /\_/\
- ( o.o )
-  &gt; ^ &lt;
-</pre>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/y65VoOlimZaus/giphy.gif" width="300" alt="Hacker Animation">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="300" alt="Developer Animation">
   
   <h1>Argha Kundu</h1>
   <img src="https://readme-typing-svg.herokuapp.com?color=%2300FFFF&size=28&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+Developer;Ethical+Hacker;Generative+AI+Explorer" />
 
   <p align="center">
-    📍 Kolkata, India<br>
+    📍 Kolkata, West Bengal, India<br>
     Architect of secure backends and explorer of digital frontiers.<br>
     I turn coffee into code and vulnerabilities into fortified systems.
   </p>
@@ -30,6 +22,15 @@
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Meexargha&layout=compact&theme=transparent&border_color=00FFFF&title_color=00FFFF&text_color=FFFFFF" alt="Argha's Top Languages" /></td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/1k3hf3J6ySACs/giphy.gif" width="70%" alt="divider">
+</div>
+
+<h3 align="center">⚡ My Philosophy ⚡</h3>
+<div align="center">
+  <img src="https://quotes-readme.vercel.app/api?type=horizontal&theme=transparent&title_color=00FFFF&text_color=FFFFFF&quote_color=00FFFF" />
 </div>
 
 <div align="center">
