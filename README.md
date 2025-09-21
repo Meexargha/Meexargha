@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="300" alt="Developer Animation">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnMwcnBlcXh3M2NoejZ2cGVxNXExNzQ2N2N0ejBlMjE3emZmaHRjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="300" alt="New Energetic Animation">
   
   <h1>Argha Kundu</h1>
   <img src="https://readme-typing-svg.herokuapp.com?color=%2300FFFF&size=28&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+Developer;Ethical+Hacker;Generative+AI+Explorer" />
