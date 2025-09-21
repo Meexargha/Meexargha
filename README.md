@@ -1,63 +1,66 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  <h1>
-    Now Streaming: <a href="https://github.com/Meexargha">Argha Kundu</a>
-  </h1>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23E50914&size=28&center=true&vCenter=true&width=600&lines=Backend+Developer;Tech+Enthusiast;Generative+AI+Learner;DevOps+Apprentice" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" alt="Coding Animation">
+  
+  <h1>Argha Kundu</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300FFFF&size=28&center=true&vCenter=true&width=600&lines=Backend+Developer;Generative+AI+Explorer;Tech+Enthusiast;Exploring+DevOps" />
+
+  <p align="center">
+    📍 Kolkata, India<br>
+    I craft scalable backend systems and explore the frontiers of Generative AI & DevOps.<br>
+    Code is my canvas.
+  </p>
 </div>
-
-<p align="center">
-  <em>A Backend Developer from Kolkata, India, currently exploring the latest in Generative AI and diving deep into the world of DevOps.<br>I build robust and scalable applications, one commit at a time.</em>
-</p>
-
----
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" />
+  <img src="https://media.giphy.com/media/Ie1f2hDWhbE34i2G0v/giphy.gif" width="60%" alt="divider">
 </div>
 
----
-
-<h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meexargha&show_icons=true&theme=dracula&count_private=true&border_color=E50914&title_color=E50914&icon_color=E50914" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Meexargha&layout=compact&theme=dracula&border_color=E50914&title_color=E50914" height="170" />
+  <table align="center">
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Meexargha&show_icons=true&theme=transparent&border_color=00FFFF&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&count_private=true" alt="Argha's GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Meexargha&layout=compact&theme=transparent&border_color=00FFFF&title_color=00FFFF&text_color=FFFFFF" alt="Argha's Top Languages" /></td>
+    </tr>
+  </table>
 </div>
 
----
+<div align="center">
+  <img src="https://media.giphy.com/media/Ie1f2hDWhbE34i2G0v/giphy.gif" width="60%" alt="divider">
+</div>
 
-<h3 align="center">📺 Up Next: Currently Learning</h3>
+<h3 align="center">My Digital Toolkit</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js" title="Node.js"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" title="Express"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB" title="MongoDB"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/></a>
 </p>
 
----
-
-<h3 align="center">🎬 The Cast: Tech & Tools</h3>
+<h4 align="center">Currently Exploring...</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Generative_AI-FF6F61?style=for-the-badge" alt="Generative AI">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker" title="Docker"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" alt="Kubernetes" title="Kubernetes"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" title="AWS"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Generative_AI-00FFFF?style=for-the-badge&logo=openai&logoColor=black" alt="Generative AI" title="Generative AI"/></a>
 </p>
 
----
+<div align="center">
+  <img src="https://media.giphy.com/media/Ie1f2hDWhbE34i2G0v/giphy.gif" width="60%" alt="divider">
+</div>
 
-<h3 align="center">📬 Let's Connect</h3>
+<h3 align="center">Connect & Collaborate</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/argha-kundu-506133216/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
   <a href="https://github.com/Meexargha" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/argha-kundu-506133216/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:arghakundu9999@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
