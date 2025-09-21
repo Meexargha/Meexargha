@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1k3hf3J6ySACs/giphy.gif" width="70%" alt="divider">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWdpa2k2eXhwb3F3d28zdHNiaHNscXl4aG1uZG85aThicm5kZ2h5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT5LMvLgB1kSmhOa7C/giphy.gif" width="70%" alt="Energetic Divider">
 </div>
 
 <div align="center">
@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1k3hf3J6ySACs/giphy.gif" width="70%" alt="divider">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWdpa2k2eXhwb3F3d28zdHNiaHNscXl4aG1uZG85aThicm5kZ2h5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT5LMvLgB1kSmhOa7C/giphy.gif" width="70%" alt="Energetic Divider">
 </div>
 
 <h3 align="center">⚡ My Philosophy ⚡</h3>
@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1k3hf3J6ySACs/giphy.gif" width="70%" alt="divider">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWdpa2k2eXhwb3F3d28zdHNiaHNscXl4aG1uZG85aThicm5kZ2h5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT5LMvLgB1kSmhOa7C/giphy.gif" width="70%" alt="Energetic Divider">
 </div>
 
 <h3 align="center">Core Development Toolkit</h3>
@@ -65,7 +65,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1k3hf3J6ySACs/giphy.gif" width="70%" alt="divider">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWdpa2k2eXhwb3F3d28zdHNiaHNscXl4aG1uZG85aThicm5kZ2h5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT5LMvLgB1kSmhOa7C/giphy.gif" width="70%" alt="Energetic Divider">
 </div>
 
 <h3 align="center">Connect & Collaborate</h3>
