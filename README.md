@@ -40,13 +40,16 @@
 <p align="center">
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/></a>
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++"/></a>
-  &nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js" title="Node.js"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" title="Express"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB" title="MongoDB"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/.ENV-333333?style=for-the-badge&logo=dotenv&logoColor=yellow" height="28" alt=".env" title="Environment Variables"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" title="Redis"/></a>
+  <br/>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman" title="Postman"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="32" alt="Swagger" title="Swagger"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/.ENV-333333?style=for-the-badge&logo=dotenv&logoColor=yellow" height="32" alt=".env" title="Environment Variables"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/></a>
 </p>
@@ -58,11 +61,12 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker" title="Docker"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" alt="Kubernetes" title="Kubernetes"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" title="AWS"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="40" alt="Netlify" title="Netlify"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" height="40" alt="Kali Linux" title="Kali Linux"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" height="28" alt="Metasploit" title="Metasploit"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" height="32" alt="Metasploit" title="Metasploit"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Generative_AI-00FFFF?style=for-the-badge&logo=openai&logoColor=black" height="28" alt="Generative AI" title="Generative AI"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Generative_AI-00FFFF?style=for-the-badge&logo=openai&logoColor=black" height="32" alt="Generative AI" title="Generative AI"/></a>
 </p>
 
 ---
@@ -79,7 +83,7 @@
   <a href="mailto:arghakundu9999@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/fadedjourneyman?igsh=MXZ2NnNzaW9xYm96Yw==" target="_blank">
+  <a href="https://www.instagram.com/fadedjournamen?igsh=MXZ2NnNzaW9xYm96Yw==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
