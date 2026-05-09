@@ -1,147 +1,160 @@
 <div align="center">
 
-```
- █████╗ ██████╗  ██████╗ ██╗  ██╗ █████╗ 
-██╔══██╗██╔══██╗██╔════╝ ██║  ██║██╔══██╗
-███████║██████╔╝██║  ███╗███████║███████║
-██╔══██║██╔══██╗██║   ██║██╔══██║██╔══██║
-██║  ██║██║  ██║╚██████╔╝██║  ██║██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:00FFFF,100:0D0D0D&height=200&section=header&text=ARGHA%20KUNDU&fontSize=60&fontColor=00FFFF&fontAlignY=55&desc=Backend%20Developer%20%E2%80%A2%20Ethical%20Hacker%20%E2%80%A2%20AI%20Explorer&descSize=16&descAlignY=78&animation=twinkling" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Backend+Architect+%F0%9F%94%A7;Python+Craftsman+%F0%9F%90%8D;Ethical+Hacker+%F0%9F%94%90;Generative+AI+Explorer+%F0%9F%A4%96;Turning+Coffee+%E2%86%92+Code+%E2%98%95)](https://git.io/typing-svg)
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=Meexargha&style=for-the-badge&color=00FFFF&labelColor=0D0D0D&label=PROFILE+VIEWS" />
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2000&pause=800&color=00FFFF&center=true&vCenter=true&multiline=false&width=500&lines=%24+whoami+--+Backend+Architect;%24+nmap+-sV+vulnerabilities.txt;%24+python3+build_the_future.py;%24+ssh+argha%40generative-ai+--explore;%24+./exploit+--target%3Dignorance)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnMwcnBlcXh3M2NoejZ2cGVxNXExNzQ2N2N0ejBlMjE3emZmaHRjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" width="260" />
+<img align="right" width="240" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnMwcnBlcXh3M2NoejZ2cGVxNXExNzQ2N2N0ejBlMjE3emZmaHRjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif"/>
 
-## `whoami`
-
-```bash
-$ cat about.txt
+```zsh
+┌──(argha㉿kolkata)-[~]
+└─$ cat profile.json
 ```
 
-```yaml
-name      : Argha Kundu
-location  : Kolkata, West Bengal 🇮🇳
-role      : Backend Developer & Security Enthusiast
-mission   : Build secure systems. Break weak ones. Repeat.
-mantra    : "Code is poetry. Security is art."
-currently : Exploring the frontiers of Generative AI
+```json
+{
+  "name"     : "Argha Kundu",
+  "location" : "Kolkata, West Bengal 🇮🇳",
+  "role"     : "Backend Dev & Security Researcher",
+  "focus"    : ["Secure APIs", "Pentest", "Gen AI"],
+  "os"       : "Kali Linux / Ubuntu",
+  "editor"   : "VS Code + Terminal",
+  "status"   : "☕ Brewing code..."
+}
 ```
 
 <br clear="right"/>
 
 ---
 
-## `ls -la skills/`
+## 🛠️ Arsenal
 
-### ⚙️ Core Stack
+<details open>
+<summary><b>⚙️ Backend & Languages</b></summary>
+<br>
 
-<p>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-### 🗄️ Databases & APIs
+</details>
 
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-</p>
+<details open>
+<summary><b>🗄️ Databases & Tools</b></summary>
+<br>
 
-### 🔐 Security Arsenal
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<p>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-0078D7?style=for-the-badge&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-</p>
+</details>
 
-### ☁️ Cloud & DevOps
+<details>
+<summary><b>🔐 Security Toolkit</b></summary>
+<br>
 
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</p>
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-0078D7?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=nmap&logoColor=white)
 
-### 🤖 AI / ML Frontier
+</details>
 
-<p>
-<img src="https://img.shields.io/badge/Generative_AI-00FFFF?style=for-the-badge&logo=openai&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</p>
+<details>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🤖 Generative AI</b></summary>
+<br>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+</details>
 
 ---
 
-## `cat stats.json`
+## 📊 Stats
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Meexargha&show_icons=true&theme=transparent&border_color=00FFFF&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&count_private=true&hide_border=false" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Meexargha&layout=compact&theme=transparent&border_color=00FFFF&title_color=00FFFF&text_color=FFFFFF" />
-</td>
-</tr>
-</table>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Meexargha&show_icons=true&theme=chartreuse-dark&border_color=00FFFF&title_color=00FFFF&icon_color=00FF88&text_color=FFFFFF&count_private=true&border_radius=10" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Meexargha&layout=compact&theme=chartreuse-dark&border_color=00FFFF&title_color=00FFFF&text_color=FFFFFF&border_radius=10" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Meexargha&theme=transparent&border=00FFFF&stroke=00FFFF&ring=00FFFF&fire=FF4500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=AAAAAA" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Meexargha&theme=chartreuse-dark&border=00FFFF&stroke=00FFFF&ring=00FF88&fire=FF4500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=AAAAAA&border_radius=10" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meexargha&bg_color=0D0D0D&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=false&border_color=00FFFF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meexargha&bg_color=0D1117&color=00FFFF&line=00FF88&point=FFFFFF&area=true&area_color=00FFFF&hide_border=false&border_color=00FFFF&radius=10" />
 
 </div>
 
 ---
 
-## `cat philosophy.txt`
-
-> *"The best code is the code that never gets hacked. The second best is the code written by someone who knows how it would."*
+## ⚡ Power Levels
 
 ```
-[ BACKEND ]  ████████████████████░░  90%
-[ SECURITY ] ████████████████░░░░░░  75%
-[ GenAI    ] ████████████░░░░░░░░░░  60%
-[ DevOps   ] ██████████░░░░░░░░░░░░  50%
-[ COFFEE   ] ██████████████████████ 110%
+BACKEND      ████████████████████░░  92%  ██ EXPERT
+SECURITY     ████████████████░░░░░░  78%  ██ ADVANCED
+GEN AI       ████████████░░░░░░░░░░  61%  ██ LEARNING
+DEVOPS       ██████████░░░░░░░░░░░░  48%  ██ GROWING
+DEBUGGING    ███████████████████░░░  89%  ██ EXPERT
+COFFEE       ██████████████████████  ∞%   ██ GODLIKE
 ```
 
 ---
 
-## `./connect.sh`
+## 💬 Philosophy
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Meexargha-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meexargha)
+> *"The best hacker doesn't break systems —*
+> *they understand them better than anyone else."*
+
+</div>
+
+---
+
+## 🌐 Find Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-%40Meexargha-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meexargha)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Argha_Kundu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/argha-kundu-506133216/)
 [![Gmail](https://img.shields.io/badge/Gmail-arghakundu9999-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arghakundu9999@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-fadedjournamen-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fadedjournamen)
+[![Instagram](https://img.shields.io/badge/Instagram-%40fadedjournamen-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fadedjournamen)
 
 <br/>
 
 ```bash
-$ ssh argha@world --port 443 --handshake "Let's build something legendary."
+┌──(argha㉿world)-[~]
+└─$ echo "Let's build something legendary together." | cowsay -f tux
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=80&section=footer&reversal=false&fontColor=ffffff" />
+</div>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:00FFFF&height=100&section=footer" />
 </div>
