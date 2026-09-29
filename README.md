@@ -1,117 +1,213 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:312e81,100:7c3aed&height=170&section=header&text=ARGHA%20KUNDU&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=software%20engineer%20%2F%2F%20backend%20%2B%20AI&descSize=15&descAlignY=72&descColor=c4b5fd"/>
+# 👋 Hi, I'm Argha Kundu
 
-<br>
+### Software Engineer • Backend Developer • AI Explorer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=build+%E2%86%92+debug+%E2%86%92+learn+%E2%86%92+ship;Node.js+%2B+TypeScript+%2B+React;Backend+engineering+%7C+AI+exploration"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Building+modern+web+applications+%F0%9F%9A%80;Node.js+%7C+TypeScript+%7C+React;Designing+APIs+and+backend+systems;Exploring+AI-powered+applications+%F0%9F%A4%96"/>
 
-<br><br>
+<br/>
 
 <a href="https://github.com/Meexargha">
-<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://www.linkedin.com/in/argha-kundu-506133216/">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:arghakundu9999@gmail.com">
-<img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-### `about`
+## 🚀 About Me
 
-> **Backend-focused developer building modern web applications and exploring AI-powered systems.**
+I'm **Argha Kundu**, a software developer focused on building **backend systems and modern web applications**.
 
-Currently working with **Node.js, TypeScript, React, databases and REST APIs**.
+I enjoy working across the application stack — from **React interfaces** to **TypeScript/Node.js APIs**, databases, authentication and AI-powered features.
+
+* 🎓 M.Tech — ECE (AI), IIIT Guwahati
+* 💻 Focus: Backend & Web Development
+* ⚡ Primary stack: TypeScript, JavaScript, Node.js, React
+* 🗄️ Databases: MongoDB, PostgreSQL
+* 🤖 Exploring: Generative AI, LLMs, RAG & AI Agents
+* 🧩 Interested in: APIs, system design & scalable applications
+* 📚 Currently improving: TypeScript, React, PostgreSQL & AI Engineering
+
+> **Build it. Break it. Understand it. Build it better.**
 
 ---
 
-### `stack`
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c" />
+</p>
+
+`TypeScript` `JavaScript` `Python` `C++` `C`
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+`React` `HTML5` `CSS3` `Responsive UI` `API Integration`
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+`Node.js` `Express.js` `REST APIs` `Authentication` `Middleware`
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma" />
+</p>
+
+`MongoDB` `Mongoose` `PostgreSQL` `Prisma` `Redis`
+
+### 🤖 AI / Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,git,github,docker,postman,linux,vscode" />
+</p>
+
+`Generative AI` `LLM APIs` `RAG` `AI Agents` `Git` `GitHub` `Docker` `Postman`
+
+---
+
+## 🔥 Featured Projects
+
+### 🎬 Streamify — Video Sharing REST API
+
+**Node.js • Express.js • MongoDB • Mongoose**
+
+A backend-focused REST API for a video-sharing platform.
+
+**Features**
+
+`Authentication` • `Protected Routes` • `Video APIs` • `MongoDB` • `Mongoose` • `Middleware`
+
+🔗 [View Repository](https://github.com/Meexargha/Streamify-Video-Sharing-REST-API)
+
+---
+
+### 🤖 GEN-AI-NODE-JS
+
+**Node.js • JavaScript • LLM APIs**
+
+A collection of experiments exploring how AI capabilities can be integrated into Node.js applications.
+
+`LLM APIs` • `Tool Calling` • `AI Agents` • `Backend Integration`
+
+🔗 [View Repository](https://github.com/Meexargha/GEN-AI-NODE-JS)
+
+---
+
+### ⚙️ QueueFlow
+
+**Node.js • PostgreSQL • Prisma**
+
+A job queue backend created to understand asynchronous processing and database-backed job management.
+
+`Job Queue` • `PostgreSQL` • `Prisma` • `Job Logs`
+
+---
+
+### 🚆 IRCTC Backend
+
+**Node.js • PostgreSQL • React • TypeScript**
+
+A railway reservation backend project focused on real-world booking workflows.
+
+`REST APIs` • `Authentication` • `Transactions` • `PostgreSQL` • `React`
+
+---
+
+## 🏆 Highlights
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,express,mongodb,postgres,prisma,python,cpp,git,docker,postman&perline=15"/>
+<img src="https://img.shields.io/badge/TCS%20CodeVita%202025-Global%20Rank%203929-7C3AED?style=for-the-badge"/>
 
-<br>
+<img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-F59E0B?style=for-the-badge"/>
 
-`JavaScript` · `TypeScript` · `React` · `HTML` · `CSS` · `Node.js` · `Express`
+<img src="https://img.shields.io/badge/College%20Leaderboard-Rank%20%231-22C55E?style=for-the-badge"/>
 
-`MongoDB` · `PostgreSQL` · `Prisma` · `REST APIs` · `Git` · `Docker` · `Postman`
+<img src="https://img.shields.io/badge/Hackathon-Finalist-EC4899?style=for-the-badge"/>
 
 </div>
 
 ---
 
-### `now`
-
-```text
-backend        ████████████████████  Node.js / APIs / DB
-frontend       ███████████████░░░░░  React / TypeScript
-ai             ███████████░░░░░░░░░  LLM / RAG / Agents
-systems        █████████░░░░░░░░░░░  Design / Architecture
-```
-
----
-
-### `projects`
-
-**🎬 Streamify** — Video Sharing REST API
-`Node.js` `Express` `MongoDB` `Mongoose`
-
-[Repository →](https://github.com/Meexargha/Streamify-Video-Sharing-REST-API)
-
-**🤖 GEN-AI-NODE-JS** — AI experiments with Node.js
-`Node.js` `JavaScript` `LLM APIs` `AI Agents`
-
-[Repository →](https://github.com/Meexargha/GEN-AI-NODE-JS)
-
-**⚙️ QueueFlow** — Job Queue Backend
-`Node.js` `PostgreSQL` `Prisma`
-
-**🚆 IRCTC Backend** — Railway Booking System
-`Node.js` `PostgreSQL` `React` `TypeScript`
-
----
-
-### `highlights`
+## 📊 GitHub Stats
 
 <div align="center">
 
-`🏆 CodeVita 2025 — Global Rank 3929`
-`💻 300+ LeetCode Problems`
-`🥇 College Leaderboard — Rank #1`
-`🚀 Hackathon Finalist`
+<img src="https://github-readme-stats.vercel.app/api?username=Meexargha&show_icons=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=7C3AED&text_color=666666&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meexargha&layout=compact&hide_border=true&theme=transparent&title_color=7C3AED&text_color=666666" height="165"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Meexargha&theme=transparent&hide_border=true&ring=7C3AED&fire=EC4899&currStreakLabel=7C3AED&sideLabels=666666&dates=888888"/>
 
 </div>
 
 ---
 
-### `github`
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Meexargha&show_icons=true&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=8b5cf6&text_color=94a3b8&rank_icon=github" height="155"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meexargha&layout=compact&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=94a3b8" height="155"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meexargha&theme=github-compact&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
+## 🎯 2026 Focus
+
 <div align="center">
 
-### `ship small. learn fast. build better.`
+`TypeScript` → `React` → `Node.js` → `PostgreSQL` → `System Design` → `LLM Engineering`
 
-<br>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=Meexargha&style=flat-square&color=7c3aed&label=VISITORS"/>
+I'm currently focused on becoming a stronger engineer by combining **solid backend fundamentals with modern AI application development**.
 
-<br><br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:111827,100:7c3aed&height=70&section=footer"/>
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Meexargha">
+<img src="https://img.shields.io/badge/GitHub-Meexargha-18181B?style=flat-square&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/argha-kundu-506133216/">
+<img src="https://img.shields.io/badge/LinkedIn-Argha%20Kundu-0A66C2?style=flat-square&logo=linkedin"/>
+</a>
+
+<a href="mailto:arghakundu9999@gmail.com">
+<img src="https://img.shields.io/badge/Email-arghakundu9999-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### ⭐ Thanks for visiting my profile!
 
 </div>
