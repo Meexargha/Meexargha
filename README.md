@@ -1,206 +1,328 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Argha%20Kundu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=⟨%20Backend%20Dev%20·%20Ethical%20Hacker%20·%20AI%20Explorer%20⟩&descSize=14&descAlignY=72&descColor=aaffee" />
+# ARGHА KUNDU
+
+### Backend Engineer · AI/LLM Engineer · Systems Builder
+
+**Building reliable APIs, scalable backends, and AI-powered systems.**
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=AAFFEE&center=true&vCenter=true&width=480&lines=Architecting+backends+that+don%27t+break+%F0%9F%94%A7;Hunting+vulnerabilities+before+others+do+%F0%9F%95%B5%EF%B8%8F;Training+AI+to+do+the+boring+stuff+%F0%9F%A4%96;Kolkata-based%2C+globally+minded+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Meexargha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](https://www.linkedin.com/in/argha-kundu-506133216/)
+[![Email](https://img.shields.io/badge/Email-18181B?style=for-the-badge\&logo=gmail\&logoColor=EA4335)](mailto:arghakundu9999@gmail.com)
 
 <br/>
 
-![](https://img.shields.io/badge/📍_Kolkata-India-aaffee?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/Status-Open_to_Collab-brightgreen?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/Coffee_Level-Critical-ff6b6b?style=flat-square&labelColor=0a0a0a)
+![Profile Views](https://komarev.com/ghpvc/?username=Meexargha\&style=flat-square\&color=6366f1)
 
 </div>
 
-<br/>
+---
+
+## `whoami`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  > whoami                                                    │
+│                                                              │
+│  Argha Kundu                                                 │
+│  Backend Developer                                           │
+│  M.Tech ECE (AI) @ IIIT Guwahati                             │
+│                                                              │
+│  I build backend systems, REST APIs and developer tools.     │
+│  Currently exploring AI/LLM engineering with Node.js.        │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+I enjoy understanding **how systems work behind the interface** — from HTTP requests and databases to authentication, queues, APIs and AI-powered applications.
+
+Currently focused on becoming a **job-ready Backend + AI/LLM Engineer**.
 
 ---
 
-### `> init`
+## `current.focus()`
 
-```
- ╔══════════════════════════════════════════════════════╗
- ║  I build the backends that power the product.        ║
- ║  I find the holes before the bad guys do.            ║
- ║  I teach machines to think so I can sleep.           ║
- ╚══════════════════════════════════════════════════════╝
+```javascript
+const focus = {
+    backend: [
+        "Node.js",
+        "Express.js",
+        "REST APIs",
+        "Authentication",
+        "Databases",
+        "System Design"
+    ],
+
+    databases: [
+        "MongoDB",
+        "PostgreSQL",
+        "Prisma"
+    ],
+
+    ai: [
+        "LLM APIs",
+        "Generative AI",
+        "RAG",
+        "AI Agents",
+        "AI-powered Backends"
+    ],
+
+    engineering: [
+        "Git & GitHub",
+        "Docker",
+        "API Testing",
+        "DSA"
+    ]
+};
 ```
 
 ---
 
-### `> skills --list`
+## `tech.stack`
 
-<table>
-<tr>
-<td valign="top" width="33%">
+### Backend
 
-**🔩 Core**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,js,python" />
+</p>
 
-```yaml
-- Python
-- JavaScript
-- C / C++
-- Node.js
-- Express.js
-```
+`Node.js` · `Express.js` · `JavaScript` · `REST APIs`
 
-</td>
-<td valign="top" width="33%">
+### Databases
 
-**🗃️ Data**
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma" />
+</p>
 
-```yaml
-- MongoDB
-- PostgreSQL
-- Redis
-- REST APIs
-- Swagger / Postman
-```
+`MongoDB` · `PostgreSQL` · `Redis` · `Prisma`
 
-</td>
-<td valign="top" width="33%">
+### AI / LLM
 
-**🔐 Security**
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-```yaml
-- Kali Linux
-- Metasploit
-- Burp Suite
-- Wireshark
-- OWASP Top 10
-```
+`LLM APIs` · `Generative AI` · `RAG` · `AI Agents` · `Prompt Engineering`
 
-</td>
-</tr>
-<tr>
-<td valign="top">
+### Tools
 
-**☁️ Cloud**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode" />
+</p>
 
-```yaml
-- Docker
-- Kubernetes
-- AWS
-- Netlify
-- Git / GitHub
-```
+`Git` · `GitHub` · `Docker` · `Postman` · `Linux` · `VS Code`
 
-</td>
-<td valign="top">
+### Programming
 
-**🤖 AI/ML**
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js" />
+</p>
 
-```yaml
-- Generative AI
-- LangChain
-- HuggingFace
-- Prompt Engineering
-- RAG Pipelines
-```
-
-</td>
-<td valign="top">
-
-**🌐 Web**
-
-```yaml
-- HTML5 / CSS3
-- REST & GraphQL
-- JWT / OAuth
-- API Security
-- Microservices
-```
-
-</td>
-</tr>
-</table>
+`C` · `C++` · `JavaScript` · `Python`
 
 ---
 
-### `> stats --verbose`
+# `projects/`
+
+### ⚡ Streamify — Video Sharing REST API
+
+A backend-focused REST API for a video-sharing platform.
+
+**Built with**
+
+`Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `JWT`
+
+**Features**
+
+* User authentication
+* Video upload & management
+* RESTful API architecture
+* User interaction APIs
+* Protected routes
+* Database modelling
+* Middleware-based architecture
+
+[**View Repository →**](https://github.com/Meexargha/Streamify-Video-Sharing-REST-API)
+
+---
+
+### 🧠 GEN-AI-NODE-JS
+
+Experiments and implementations around integrating **Generative AI with Node.js applications**.
+
+Exploring how LLMs can become part of real backend products rather than isolated demos.
+
+**Focus**
+
+`Node.js` · `LLM APIs` · `AI Agents` · `Tool Calling` · `API Integration`
+
+[**View GitHub →**](https://github.com/Meexargha/GEN-AI-NODE-JS)
+
+---
+
+### 🚆 IRCTC Backend System
+
+A backend-oriented railway booking system designed to explore how real-world transactional applications can be structured.
+
+**Exploring**
+
+`Node.js` · `REST APIs` · `PostgreSQL` · `Authentication` · `Transactions` · `System Design`
+
+---
+
+### ⚙️ QueueFlow
+
+A job queue backend designed to understand asynchronous processing and database-backed job management.
+
+**Stack**
+
+`Node.js` · `PostgreSQL` · `Prisma`
+
+**Concepts**
+
+```text
+Client
+   │
+   ▼
+REST API
+   │
+   ▼
+Job Queue
+   │
+   ├── Job
+   ├── Job Status
+   └── Job Logs
+```
+
+---
+
+# `learning/`
+
+```text
+Backend Engineering
+        │
+        ├── HTTP & REST
+        ├── Authentication
+        ├── Databases
+        ├── Caching
+        ├── Queues
+        ├── System Design
+        └── Distributed Systems
+                 │
+                 ▼
+             AI Engineering
+                 │
+                 ├── LLM APIs
+                 ├── RAG
+                 ├── Vector Databases
+                 ├── Tool Calling
+                 ├── AI Agents
+                 └── AI System Design
+```
+
+The goal isn't just to **call an AI API**.
+
+The goal is to understand how to build the **backend infrastructure around AI applications**.
+
+---
+
+# `achievements/`
+
+🏆 **TCS CodeVita 2025** — Global Rank **3929**
+
+💻 **300+ LeetCode problems** solved
+
+🥇 **Ranked #1** on the Academy of Technology coding leaderboard with **757 points**
+
+🚀 **College Hackathon Finalist**
+
+👨‍💻 Contributed to the **college technical team**
+
+---
+
+# `github.stats()`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Meexargha&show_icons=true&theme=midnight-purple&hide_border=true&title_color=aaffee&icon_color=aaffee&text_color=cccccc&bg_color=0d0d0d&count_private=true&rank_icon=github" height="155"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Meexargha&layout=donut-vertical&theme=midnight-purple&hide_border=true&title_color=aaffee&text_color=cccccc&bg_color=0d0d0d" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Meexargha&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366f1&icon_color=6366f1&text_color=888888&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meexargha&layout=compact&hide_border=true&bg_color=00000000&title_color=6366f1&text_color=888888" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Meexargha&theme=midnight-purple&hide_border=true&stroke=aaffee&ring=aaffee&fire=ff6b6b&currStreakLabel=aaffee&background=0d0d0d&sideLabels=999999&dates=555555"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Meexargha&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=4"/>
+<img src="https://streak-stats.demolab.com?user=Meexargha&hide_border=true&background=00000000&ring=6366f1&fire=f97316&currStreakLabel=6366f1&sideLabels=888888&dates=888888"/>
 
 </div>
 
 ---
 
-### `> scan --contributions`
+# `developer.mindset`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meexargha&theme=react-dark&hide_border=true&bg_color=0d0d0d&color=aaffee&line=7b5ea7&point=aaffee&area=true&area_color=7b5ea7"/>
-
-</div>
-
----
-
-### `> echo $PHILOSOPHY`
-
-<div align="center">
-
-```
-        "Security is not a product, it's a process."
-                                        — Bruce Schneier
-
-        "First, solve the problem. Then, write the code."
-                                        — John Johnson
-
-        "The best code is no code at all."
-                                        — Jeff Atwood
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  Build it.                                          │
+│  Break it.                                          │
+│  Understand why.                                   │
+│  Fix it.                                            │
+│  Ship it.                                           │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
 
 </div>
 
+I believe good engineering is less about knowing every technology and more about being able to **learn, debug, design and ship**.
+
 ---
 
-### `> connect --handshake`
+# `connect()`
 
 <div align="center">
 
 <a href="https://github.com/Meexargha">
-<img src="https://img.shields.io/badge/GitHub-Meexargha-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/argha-kundu-506133216/">
-<img src="https://img.shields.io/badge/LinkedIn-Argha_Kundu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
+
 <a href="mailto:arghakundu9999@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-arghakundu9999-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/fadedjournamen">
-<img src="https://img.shields.io/badge/Instagram-fadedjournamen-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-18181B?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
-<br/><br/>
+</div>
 
-```python
-while alive:
-    eat()
-    sleep()
-    code()
-    hack_ethically()
-    repeat()
+<br/>
+
+<div align="center">
+
+```text
+$ git status
+
+On branch main
+
+Backend      ███████████████████░░
+AI / LLM     ████████████░░░░░░░░░
+System Design ████████░░░░░░░░░░░░
+DSA          ███████████████░░░░░
+Learning     ████████████████████
 ```
+
+### Building systems. Learning continuously. Shipping consistently.
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer&reversal=false"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=120&section=footer"/>
+
 </div>
