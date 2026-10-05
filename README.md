@@ -46,41 +46,75 @@ I'm **Argha Kundu**, a **Backend Engineer** focused on building APIs, database-d
 
 # 🛠️ Tech Stack
 
-### 💻 Languages
+## 💻 Languages
 
-<p>
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,c"/>
-</p>
 
-### ⚙️ Backend
+</div>
 
-<p>
+---
+
+## ⚙️ Backend
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
 
-`REST APIs` `Authentication` `JWT` `Middleware` `API Design`
+<br><br>
 
-### 🗄️ Databases
+<img src="https://img.shields.io/badge/REST%20APIs-7c3aed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Authentication-7c3aed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-7c3aed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Middleware-7c3aed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Design-7c3aed?style=for-the-badge"/>
 
-<p>
+</div>
+
+---
+
+## 🗄️ Databases
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,redis"/>
-</p>
 
-### 🎨 Frontend
+</div>
 
-<p>
+---
+
+## 🎨 Frontend
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=react,html,css"/>
-</p>
 
-### 🔧 Tools
+</div>
 
-<p>
+---
+
+## 🔧 Tools
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode"/>
-</p>
 
-### 🤖 AI / LLM
+</div>
 
-`LLM APIs` `Generative AI` `RAG` `AI Agents` `Tool Calling`
+---
+
+## 🤖 AI / LLM
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LLM%20APIs-7c3aed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-7c3aed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-7c3aed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-7c3aed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tool%20Calling-7c3aed?style=for-the-badge"/>
+
+</div>
 
 ---
 
@@ -165,7 +199,7 @@ Job processing system built with Node.js, PostgreSQL and Prisma.
 
 <br><br>
 
-`Queues` `Workers` `PostgreSQL` `Prisma`
+<code>Queues</code> · <code>Workers</code> · <code>PostgreSQL</code> · <code>Prisma</code>
 
 </td>
 
@@ -217,23 +251,35 @@ Real-time location based application exploring backend communication and real-ti
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Meexargha&show_icons=true&hide_border=true&bg_color=00000000&title_color=7c3aed&icon_color=8b5cf6&text_color=64748b&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Meexargha&show_icons=true&hide_border=true&bg_color=00000000&title_color=7c3aed&icon_color=22c55e&text_color=64748b&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meexargha&layout=compact&hide_border=true&bg_color=00000000&title_color=7c3aed&text_color=64748b&langs_count=8"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Meexargha&theme=transparent&hide_border=true&ring=7c3aed&fire=ec4899&currStreakLabel=7c3aed&sideLabels=64748b&dates=94a3b8"/>
+<img src="https://streak-stats.demolab.com?user=Meexargha&theme=transparent&hide_border=true&ring=7c3aed&fire=22c55e&currStreakLabel=7c3aed&sideLabels=64748b&dates=94a3b8"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Contributions
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meexargha&bg_color=00000000&color=7c3aed&line=8b5cf6&point=6366f1&area=true&hide_border=true&custom_title=Argha's%20Contribution%20Graph"/>
+<img src="https://img.shields.io/badge/Contributions-1%2C920%2B-22c55e?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Active%20Year-2026-7c3aed?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meexargha&bg_color=00000000&color=7c3aed&line=22c55e&point=4ade80&area=true&hide_border=true&custom_title=Argha's%20GitHub%20Contribution%20Activity"/>
+
+<br>
+
+### 🔥 1,920+ contributions in the last year
+
+**Building • Learning • Coding • Shipping**
 
 </div>
 
@@ -243,33 +289,41 @@ Real-time location based application exploring backend communication and real-ti
 
 <div align="center">
 
-### Backend Engineering
+<h3>Backend Engineering</h3>
 
-`TypeScript`
-→
-`Node.js`
-→
-`PostgreSQL`
-→
-`Redis`
-→
-`System Design`
+<p>
 
-### AI Engineering
+<code>TypeScript</code>
+→
+<code>Node.js</code>
+→
+<code>PostgreSQL</code>
+→
+<code>Redis</code>
+→
+<code>System Design</code>
 
-`LLM APIs`
+</p>
+
+<h3>AI Engineering</h3>
+
+<p>
+
+<code>LLM APIs</code>
 →
-`RAG`
+<code>RAG</code>
 →
-`Vector Databases`
+<code>Vector Databases</code>
 →
-`AI Agents`
+<code>AI Agents</code>
 →
-`AI Applications`
+<code>AI Applications</code>
+
+</p>
 
 <br>
 
-> **Build better backends. Understand systems. Ship useful products.**
+<h3>🚀 Build better backends. Understand systems. Ship useful products.</h3>
 
 </div>
 
