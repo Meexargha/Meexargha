@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ARGHA KUNDU
+# 👋 Argha Kundu
 
 ### Backend Engineer | Software Developer
 
@@ -20,7 +20,7 @@
 
 <img src="https://img.shields.io/badge/REST%20API-7c3aed?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git- F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
@@ -33,5 +33,13 @@
 <a href="https://www.linkedin.com/in/argha-kundu-506133216/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="mailto:arghakundu9999@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Meexargha&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 
 </div>
