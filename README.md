@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 ARgha Kundu
+# 👋 ARGHA KUNSU
 
 ### Backend Engineer | Software Developer
 
